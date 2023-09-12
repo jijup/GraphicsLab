@@ -145,7 +145,7 @@ int main(int, char**) {
 	cout << endl;
 
 	//..................................................................................................
-	//Task 4: Given two vectors, construct a 3D orthonormal Basis using Gram-schmidt's method - Weightage: 15%
+	//Task 4: Given two vectors, construct a 2D orthonormal Basis using Gram-schmidt's method - Weightage: 15%
 
 	cout << "Task 4: Gram-Schmidt's Method"<<endl;
 	cout << "-----------------------------"<<endl;
@@ -167,11 +167,10 @@ int main(int, char**) {
 
 
 	//TODO: Construct e2
+	
 	cout << "e2:" << e1;
 
-	//TODO: Construct e3. Cross of e1 and e2
-	cout << "e3:" << e3;
-	
+		
 	system("pause");
 
 	return EXIT_SUCCESS;
