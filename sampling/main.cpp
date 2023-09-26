@@ -1,4 +1,7 @@
 /*Antialiasing using Jittering/Stratified Supersampling*/
+/* Starter Code for Exercise 3 of CSCI 4471/6671: Computer Graphics
+Please refer to the corresponding wiki page and read the instructions carefully
+ while completing the code.*/
 
 
 #include "Triangle.h"
