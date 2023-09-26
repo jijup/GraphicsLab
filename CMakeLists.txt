@@ -12,7 +12,8 @@ include(common/OpenCV.cmake)
 #--- Subprojects
 #add_subdirectory(hello)
 #add_subdirectory(vectors)
-add_subdirectory(raytrace)
+#add_subdirectory(raytrace)
+add_subdirectory(sampling)
 
 
 #--- C++ standard
