@@ -13,7 +13,8 @@ include(common/OpenCV.cmake)
 #add_subdirectory(hello)
 #add_subdirectory(vectors)
 #add_subdirectory(raytrace)
-add_subdirectory(sampling)
+#add_subdirectory(sampling)
+add_subdirectory(texturing)
 
 
 #--- C++ standard
