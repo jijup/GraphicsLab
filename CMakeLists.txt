@@ -14,7 +14,8 @@ include(common/OpenCV.cmake)
 #add_subdirectory(vectors)
 #add_subdirectory(raytrace)
 #add_subdirectory(sampling)
-add_subdirectory(texturing)
+#add_subdirectory(texturing)
+add_subdirectory(rasterize)
 
 
 #--- C++ standard
