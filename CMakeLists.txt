@@ -9,13 +9,19 @@ include(common/config.cmake)
 include(common/Eigen.cmake)
 include(common/OpenCV.cmake)
 
+#--- OpenGL configuration
+include(common/OpenGL.cmake)
+include(common/GLEW.cmake)
+include(common/GLFW.cmake)
+
 #--- Subprojects
 #add_subdirectory(hello)
 #add_subdirectory(vectors)
 #add_subdirectory(raytrace)
 #add_subdirectory(sampling)
 #add_subdirectory(texturing)
-add_subdirectory(rasterize)
+#add_subdirectory(rasterize)
+add_subdirectory(shaders)
 
 
 #--- C++ standard
