@@ -21,7 +21,8 @@ include(common/GLFW.cmake)
 #add_subdirectory(sampling)
 #add_subdirectory(texturing)
 #add_subdirectory(rasterize)
-add_subdirectory(shaders)
+#add_subdirectory(shaders)
+add_subdirectory(PerlinNoise)
 
 
 #--- C++ standard
