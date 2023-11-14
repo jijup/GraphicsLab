@@ -24,6 +24,9 @@ include(common/GLFW.cmake)
 #add_subdirectory(shaders)
 add_subdirectory(PerlinNoise)
 
+#---Assignments
+#add_subdirectory(Terrains)
+
 
 #--- C++ standard
 set(CMAKE_CXX_STANDARD 11)
