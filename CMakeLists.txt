@@ -23,7 +23,8 @@ include(common/GLFW.cmake)
 #add_subdirectory(texturing)
 #add_subdirectory(rasterize)
 #add_subdirectory(shaders)
-add_subdirectory(PerlinNoise)
+#add_subdirectory(PerlinNoise)
+add_subdirectory(Beach)
 
 #---Assignments
 #add_subdirectory(Terrains)
