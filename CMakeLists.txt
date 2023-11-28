@@ -24,7 +24,8 @@ include(common/GLFW.cmake)
 #add_subdirectory(rasterize)
 #add_subdirectory(shaders)
 #add_subdirectory(PerlinNoise)
-add_subdirectory(Beach)
+#add_subdirectory(Beach)
+add_subdirectory(Mesh3D)
 
 #---Assignments
 #add_subdirectory(Terrains)
